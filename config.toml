@@ -1,4 +1,4 @@
-theme = "night_owl"
+theme = "github_dark"
 
 [editor]
 line-number = "absolute"
